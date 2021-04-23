@@ -1,0 +1,40 @@
+.nav-container{
+    background: #59606f;
+    padding:0.5rem;
+}
+.nav-style{
+           padding:0 1.4rem;
+          height:2.0rem;
+        border-radius:5px;
+        font-size:20px;
+        margin-left:1px;
+}
+
+.nav-button{
+ color:white;
+text-decoration:none;
+margin:0
+}
+
+.nav-button-register{
+    margin-left:1120px;
+    color:white;
+    text-decoration:none;
+
+}
+.nav-button-login{
+    margin-left:20px;
+    color:white;
+    text-decoration:none;
+
+}
+.nav-icon{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+padding:0 1.4rem;
+height:2.5rem;
+border-radius:5px;
+font-size:27px;
+margin-left:1px;
+}

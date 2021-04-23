@@ -1,0 +1,7 @@
+.nav-container{
+    display:'flex';
+    justify-content:"space-between";
+     background:fade-out( #364051, .15);
+    color:white ;
+    padding:1rem;
+}

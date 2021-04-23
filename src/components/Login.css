@@ -1,0 +1,40 @@
+.form-header{
+    background:#59606f;
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        align-items:center;
+        width:40%;
+        margin-left:350px;
+         margin-top:70px;  
+        height:10%;
+    } 
+    
+    
+    .form-input{
+        height:20px;
+        margin-top:10px;
+        margin-bottom:1px;
+          padding:0.5rem;
+          width:250px;
+          flex-grow:1;
+        border:none;
+        text-align:center
+    }
+    
+    .button-submit{
+        background:white;
+        font-size:20px;
+        padding:0.5rem;
+        margin-top:10px;
+        margin-bottom:30px;
+        border:none
+    }
+    .form-error{
+    margin:1rem 0 1.3rem 0;
+    padding:0 1.6rem;
+    font-style:italic;
+    color:red;
+    font-size:20px
+
+}

@@ -1,0 +1,101 @@
+.post-list{
+    background:blue
+}
+.loading-status{
+    font-size:25px;
+    margin-left:15px
+    
+}
+.post-header{
+display:flex;
+justify-content:space-between;
+flex-direction:column
+}
+.list-options{
+    display:flex;
+  margin-left:none ; 
+   flex-direction:column;
+  
+    
+}
+.user-list{
+    font-size:20px;
+    color:blue;
+    margin-bottom:2px;
+    font-weight:bold;
+}
+.title-list{
+    font-size:17px;
+    
+    margin-bottom:3px
+}
+.story-list{
+    font-size:17px;
+    margin-top:2px;
+    margin-bottom:5px;
+    width:40%;
+    word-break:break-all
+}
+
+
+.button-option{ 
+    display:flex;
+    justify-content:safe;
+    text-decoration:none;
+    margin-top:5px;
+    font-size:17px;
+    color:black
+
+}
+.search-button{
+    display:flex;
+    justify-content:center;
+    margin-top:20px;
+    height:40px;
+    
+    
+}
+.holder-button{
+    width:350px;
+    align-items:center;
+    text-align:center
+
+}
+
+.link-button{
+    font-size:16px;
+    color:blue;
+    text-decoration:none;
+    margin-right:150px;
+    display:flex;
+    justify-content:flex-start
+}
+.pagination-style{
+    display:flex;
+    justify-content:column;
+    flex-direction:column;
+    align-items:flex-start;
+    text-align:justify
+}
+
+.pagination{
+    display:flex;
+    justify-content:space-around
+}
+.title-margin{
+    color:black;
+    font-size:17px;
+    margin-right:10px
+}
+
+
+.card-style{
+    display:flex;
+    flex-direction:column;
+    background: #ccc;
+    width: auto
+}
+.user-name{
+    font-size:25px;
+    margin:25px 0px 0px 50px
+}
